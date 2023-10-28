@@ -1,6 +1,6 @@
 # Exp no 05 : IMPLEMENT MIN-MAX SEARCH ALGORITHM FOR A SIMPLE TIC-TAC-TOE GAME
-Name: HARINI B 
-Register Number: 212221230035
+## Name: HARINI B 
+## Register Number: 212221230035
 ## AIM:
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
