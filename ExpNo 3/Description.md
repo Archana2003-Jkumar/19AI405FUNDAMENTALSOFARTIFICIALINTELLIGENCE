@@ -1,6 +1,6 @@
 <h1>ExpNo 3 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: J.Archana Priya</h3>
+<h3>Register Number: 212221230007</h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
@@ -51,7 +51,10 @@
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/b1377c3f-011a-4c0f-a843-516842ae056a)
 
-<hr>
+## Program:
+```PYTHON
+
+```
 <h2>Sample Input</h2>
 <hr>
 10 14 <br>
